@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Portée",
+      "hasCanvas": false,
+      "bodyTextLen": 745,
+      "bodyTextHash": "de8b7a8881754b8c4c41ec1b57714507d2c696aea9c0e0b1c6ed6c53c0c1e9f6",
+      "bodyTextPrefix": "Aller à l'écran AIDE À L'ÉCRAN · SANS MICRO Portée A A+ A++ Cont",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Portée",
+      "hasCanvas": false,
+      "bodyTextLen": 745,
+      "bodyTextHash": "de8b7a8881754b8c4c41ec1b57714507d2c696aea9c0e0b1c6ed6c53c0c1e9f6",
+      "bodyTextPrefix": "Aller à l'écran AIDE À L'ÉCRAN · SANS MICRO Portée A A+ A++ Cont",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
